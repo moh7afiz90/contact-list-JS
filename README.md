@@ -2,7 +2,7 @@
 
 A web app that list your contacts list.
 
-[ScreenShot](assets/app.png)
+![ScreenShot](assets/app.png)
 
 ## Technologies used
 * [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
